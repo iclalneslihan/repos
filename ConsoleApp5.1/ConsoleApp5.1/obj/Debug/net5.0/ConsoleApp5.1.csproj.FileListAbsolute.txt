@@ -1,0 +1,16 @@
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.csproj.CoreCompileInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\bin\Debug\net5.0\ConsoleApp5.1.exe
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\bin\Debug\net5.0\ConsoleApp5.1.deps.json
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\bin\Debug\net5.0\ConsoleApp5.1.runtimeconfig.json
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\bin\Debug\net5.0\ConsoleApp5.1.runtimeconfig.dev.json
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\bin\Debug\net5.0\ConsoleApp5.1.dll
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\bin\Debug\net5.0\ref\ConsoleApp5.1.dll
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\bin\Debug\net5.0\ConsoleApp5.1.pdb
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.dll
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ref\ConsoleApp5.1.dll
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.pdb
+C:\Users\ECR_DELL_G15\source\repos\ConsoleApp5.1\ConsoleApp5.1\obj\Debug\net5.0\ConsoleApp5.1.genruntimeconfig.cache
