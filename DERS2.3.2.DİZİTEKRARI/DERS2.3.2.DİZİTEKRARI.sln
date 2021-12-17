@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DERS2.3.2.DİZİTEKRARI", "DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI.csproj", "{FA5B0664-AFCB-46D4-BE05-EE44BC4EFB60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5B0664-AFCB-46D4-BE05-EE44BC4EFB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5B0664-AFCB-46D4-BE05-EE44BC4EFB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5B0664-AFCB-46D4-BE05-EE44BC4EFB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5B0664-AFCB-46D4-BE05-EE44BC4EFB60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224C40FB-20B4-4105-9199-7A5A8E1D6629}
+	EndGlobalSection
+EndGlobal

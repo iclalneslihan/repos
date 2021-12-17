@@ -1,0 +1,5 @@
+C:\Users\ECR_DELL_G15\source\repos\OGRENCİ\OGRENCİ\obj\Debug\net5.0\OGRENCİ.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\OGRENCİ\OGRENCİ\obj\Debug\net5.0\OGRENCİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\OGRENCİ\OGRENCİ\obj\Debug\net5.0\OGRENCİ.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\OGRENCİ\OGRENCİ\obj\Debug\net5.0\OGRENCİ.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\OGRENCİ\OGRENCİ\obj\Debug\net5.0\OGRENCİ.csproj.CoreCompileInputs.cache

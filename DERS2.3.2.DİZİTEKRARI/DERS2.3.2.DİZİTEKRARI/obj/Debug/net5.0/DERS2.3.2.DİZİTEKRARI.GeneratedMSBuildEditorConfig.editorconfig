@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = DERS2._3._2.DİZİTEKRARI
+build_property.ProjectDir = C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\

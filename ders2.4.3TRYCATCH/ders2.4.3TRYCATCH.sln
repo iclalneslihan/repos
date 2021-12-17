@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ders2.4.3TRYCATCH", "ders2.4.3TRYCATCH\ders2.4.3TRYCATCH.csproj", "{CC4CFD1C-254A-409D-89A0-2F19F10DA085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4CFD1C-254A-409D-89A0-2F19F10DA085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4CFD1C-254A-409D-89A0-2F19F10DA085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4CFD1C-254A-409D-89A0-2F19F10DA085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4CFD1C-254A-409D-89A0-2F19F10DA085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979D4FF7-6F44-4085-887E-136A78E01F74}
+	EndGlobalSection
+EndGlobal

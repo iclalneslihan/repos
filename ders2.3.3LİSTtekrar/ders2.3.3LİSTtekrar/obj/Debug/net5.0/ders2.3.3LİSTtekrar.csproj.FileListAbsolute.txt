@@ -1,0 +1,5 @@
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.3LİSTtekrar\ders2.3.3LİSTtekrar\obj\Debug\net5.0\ders2.3.3LİSTtekrar.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.3LİSTtekrar\ders2.3.3LİSTtekrar\obj\Debug\net5.0\ders2.3.3LİSTtekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.3LİSTtekrar\ders2.3.3LİSTtekrar\obj\Debug\net5.0\ders2.3.3LİSTtekrar.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.3LİSTtekrar\ders2.3.3LİSTtekrar\obj\Debug\net5.0\ders2.3.3LİSTtekrar.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.3LİSTtekrar\ders2.3.3LİSTtekrar\obj\Debug\net5.0\ders2.3.3LİSTtekrar.csproj.CoreCompileInputs.cache

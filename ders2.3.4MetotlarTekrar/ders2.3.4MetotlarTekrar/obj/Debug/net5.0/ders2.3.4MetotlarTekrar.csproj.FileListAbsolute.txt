@@ -1,0 +1,16 @@
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.csproj.CoreCompileInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\bin\Debug\net5.0\ders2.3.4MetotlarTekrar.exe
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\bin\Debug\net5.0\ders2.3.4MetotlarTekrar.deps.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\bin\Debug\net5.0\ders2.3.4MetotlarTekrar.runtimeconfig.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\bin\Debug\net5.0\ders2.3.4MetotlarTekrar.runtimeconfig.dev.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\bin\Debug\net5.0\ders2.3.4MetotlarTekrar.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\bin\Debug\net5.0\ref\ders2.3.4MetotlarTekrar.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\bin\Debug\net5.0\ders2.3.4MetotlarTekrar.pdb
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ref\ders2.3.4MetotlarTekrar.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.pdb
+C:\Users\ECR_DELL_G15\source\repos\ders2.3.4MetotlarTekrar\ders2.3.4MetotlarTekrar\obj\Debug\net5.0\ders2.3.4MetotlarTekrar.genruntimeconfig.cache

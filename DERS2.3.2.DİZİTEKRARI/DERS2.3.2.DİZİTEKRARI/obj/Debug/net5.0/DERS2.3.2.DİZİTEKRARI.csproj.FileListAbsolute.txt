@@ -1,0 +1,16 @@
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.csproj.CoreCompileInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\bin\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.exe
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\bin\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.deps.json
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\bin\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.runtimeconfig.json
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\bin\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.runtimeconfig.dev.json
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\bin\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.dll
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\bin\Debug\net5.0\ref\DERS2.3.2.DİZİTEKRARI.dll
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\bin\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.pdb
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.dll
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\ref\DERS2.3.2.DİZİTEKRARI.dll
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.pdb
+C:\Users\ECR_DELL_G15\source\repos\DERS2.3.2.DİZİTEKRARI\DERS2.3.2.DİZİTEKRARI\obj\Debug\net5.0\DERS2.3.2.DİZİTEKRARI.genruntimeconfig.cache

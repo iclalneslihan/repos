@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FORM5.3.1/1.0.0": {
+        "runtime": {
+          "FORM5.3.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FORM5.3.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

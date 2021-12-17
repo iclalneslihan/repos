@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3.4.1INTERFACE", "Ders3.4.1INTERFACE\Ders3.4.1INTERFACE.csproj", "{38628F41-BEBB-4CEB-9E80-EF33AD3FA8DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4.2InterfaceAraba", "3.4.2InterfaceAraba\3.4.2InterfaceAraba.csproj", "{6601F0A5-CCA4-4D02-A63E-862C41D10BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38628F41-BEBB-4CEB-9E80-EF33AD3FA8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38628F41-BEBB-4CEB-9E80-EF33AD3FA8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38628F41-BEBB-4CEB-9E80-EF33AD3FA8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38628F41-BEBB-4CEB-9E80-EF33AD3FA8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6601F0A5-CCA4-4D02-A63E-862C41D10BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6601F0A5-CCA4-4D02-A63E-862C41D10BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6601F0A5-CCA4-4D02-A63E-862C41D10BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6601F0A5-CCA4-4D02-A63E-862C41D10BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DA4A0B-6655-4CFF-A532-4D2BB8A9650F}
+	EndGlobalSection
+EndGlobal

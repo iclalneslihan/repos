@@ -1,0 +1,5 @@
+C:\Users\ECR_DELL_G15\source\repos\DERS3.3.3Lokanta\ders3.3.4AlanCevre\obj\Debug\net5.0\ders3.3.4AlanCevre.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\DERS3.3.3Lokanta\ders3.3.4AlanCevre\obj\Debug\net5.0\ders3.3.4AlanCevre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\DERS3.3.3Lokanta\ders3.3.4AlanCevre\obj\Debug\net5.0\ders3.3.4AlanCevre.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\DERS3.3.3Lokanta\ders3.3.4AlanCevre\obj\Debug\net5.0\ders3.3.4AlanCevre.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\DERS3.3.3Lokanta\ders3.3.4AlanCevre\obj\Debug\net5.0\ders3.3.4AlanCevre.csproj.CoreCompileInputs.cache

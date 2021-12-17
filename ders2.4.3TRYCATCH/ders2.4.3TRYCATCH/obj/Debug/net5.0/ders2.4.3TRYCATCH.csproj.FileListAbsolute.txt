@@ -1,0 +1,16 @@
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\bin\Debug\net5.0\ders2.4.3TRYCATCH.exe
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\bin\Debug\net5.0\ders2.4.3TRYCATCH.deps.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\bin\Debug\net5.0\ders2.4.3TRYCATCH.runtimeconfig.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\bin\Debug\net5.0\ders2.4.3TRYCATCH.runtimeconfig.dev.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\bin\Debug\net5.0\ders2.4.3TRYCATCH.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\bin\Debug\net5.0\ref\ders2.4.3TRYCATCH.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\bin\Debug\net5.0\ders2.4.3TRYCATCH.pdb
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.csproj.CoreCompileInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ref\ders2.4.3TRYCATCH.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.pdb
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.3TRYCATCH\ders2.4.3TRYCATCH\obj\Debug\net5.0\ders2.4.3TRYCATCH.genruntimeconfig.cache

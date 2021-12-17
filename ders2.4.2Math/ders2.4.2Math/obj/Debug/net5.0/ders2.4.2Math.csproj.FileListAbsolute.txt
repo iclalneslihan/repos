@@ -1,0 +1,16 @@
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.csproj.CoreCompileInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\bin\Debug\net5.0\ders2.4.2Math.exe
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\bin\Debug\net5.0\ders2.4.2Math.deps.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\bin\Debug\net5.0\ders2.4.2Math.runtimeconfig.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\bin\Debug\net5.0\ders2.4.2Math.runtimeconfig.dev.json
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\bin\Debug\net5.0\ders2.4.2Math.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\bin\Debug\net5.0\ref\ders2.4.2Math.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\bin\Debug\net5.0\ders2.4.2Math.pdb
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ref\ders2.4.2Math.dll
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.pdb
+C:\Users\ECR_DELL_G15\source\repos\ders2.4.2Math\ders2.4.2Math\obj\Debug\net5.0\ders2.4.2Math.genruntimeconfig.cache

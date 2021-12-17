@@ -1,0 +1,12 @@
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\bin\Debug\net5.0\Alisveris.common.deps.json
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\bin\Debug\net5.0\Alisveris.common.dll
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\bin\Debug\net5.0\ref\Alisveris.common.dll
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\bin\Debug\net5.0\Alisveris.common.pdb
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\Alisveris.common.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\Alisveris.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\Alisveris.common.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\Alisveris.common.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\Alisveris.common.csproj.CoreCompileInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\Alisveris.common.dll
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\ref\Alisveris.common.dll
+C:\Users\ECR_DELL_G15\source\repos\AlisverisProject\Alisveris.common\obj\Debug\net5.0\Alisveris.common.pdb

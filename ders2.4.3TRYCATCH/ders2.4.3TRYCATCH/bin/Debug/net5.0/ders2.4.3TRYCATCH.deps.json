@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ders2.4.3TRYCATCH/1.0.0": {
+        "runtime": {
+          "ders2.4.3TRYCATCH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ders2.4.3TRYCATCH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

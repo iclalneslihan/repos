@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Alisveris.Entity\Alisveris.Entity.csproj" />
+    <ProjectReference Include="..\Alisveris.ORM\Alisveris.ORM.csproj" />
+  </ItemGroup>
+
+</Project>

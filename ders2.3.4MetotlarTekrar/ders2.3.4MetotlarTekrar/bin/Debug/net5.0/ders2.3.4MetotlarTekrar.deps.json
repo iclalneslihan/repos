@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ders2.3.4MetotlarTekrar/1.0.0": {
+        "runtime": {
+          "ders2.3.4MetotlarTekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ders2.3.4MetotlarTekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

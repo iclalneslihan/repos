@@ -1,0 +1,5 @@
+C:\Users\ECR_DELL_G15\source\repos\2.5.2NesneyeYP\2.5.2NesneyeYP\obj\Debug\net5.0\2.5.2NesneyeYP.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\2.5.2NesneyeYP\2.5.2NesneyeYP\obj\Debug\net5.0\2.5.2NesneyeYP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECR_DELL_G15\source\repos\2.5.2NesneyeYP\2.5.2NesneyeYP\obj\Debug\net5.0\2.5.2NesneyeYP.AssemblyInfoInputs.cache
+C:\Users\ECR_DELL_G15\source\repos\2.5.2NesneyeYP\2.5.2NesneyeYP\obj\Debug\net5.0\2.5.2NesneyeYP.AssemblyInfo.cs
+C:\Users\ECR_DELL_G15\source\repos\2.5.2NesneyeYP\2.5.2NesneyeYP\obj\Debug\net5.0\2.5.2NesneyeYP.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Alisveris.View/1.0.0": {
+        "runtime": {
+          "Alisveris.View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alisveris.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
