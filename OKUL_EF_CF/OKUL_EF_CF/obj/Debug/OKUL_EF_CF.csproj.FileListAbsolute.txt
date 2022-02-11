@@ -1,0 +1,2 @@
+C:\Users\ECR_DELL_G15\source\repos\OKUL_EF_CF\OKUL_EF_CF\obj\Debug\OKUL_EF_CF.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\OKUL_EF_CF\OKUL_EF_CF\obj\Debug\OKUL_EF_CF.csproj.CoreCompileInputs.cache

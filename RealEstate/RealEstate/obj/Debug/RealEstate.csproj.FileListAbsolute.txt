@@ -1,0 +1,2 @@
+C:\Users\ECR_DELL_G15\source\repos\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.AssemblyReference.cache
+C:\Users\ECR_DELL_G15\source\repos\RealEstate\RealEstate\obj\Debug\RealEstate.csproj.CoreCompileInputs.cache
